@@ -1,0 +1,7 @@
+node_modules/
+*.class
+bin/
+out/
+.idea/
+.vscode/
+.env
